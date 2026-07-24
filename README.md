@@ -177,6 +177,11 @@ Compares regional performance and tracks post-merger progress.
 
 # 📈 Key Business Insights
 
+The dashboard generated several business insights across commercial performance, sales execution, distributor health, pricing governance, and market performance.
+
+> **Arabic Business Insights:** [Insights-Arabic.md](Insights-Arabic.md)
+
+
 ### Executive
 
 - Revenue decreased by **23.1%** compared to the previous month.
