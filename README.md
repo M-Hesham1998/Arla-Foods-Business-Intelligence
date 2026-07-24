@@ -14,6 +14,12 @@ The objective is not only to visualize data, but to answer real business questio
 
 ---
 
+## 📑 Project Documentation
+
+- 📄 **Business Case Study:** [Commercial_Operations_Case_Study](https://app.notion.com/p/Arla-Foods-398f3442875c80578910c50545f5de33?source=copy_link)
+
+---
+
 ![Banner](Images/Banner.png)
 
 ---
