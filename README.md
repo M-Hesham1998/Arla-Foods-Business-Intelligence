@@ -14,7 +14,7 @@ The objective is not only to visualize data, but to answer real business questio
 
 ---
 
-![Banner](Images/Banner.png)
+![Banner](Image/Banner.png)
 
 ---
 
@@ -225,31 +225,31 @@ Compares regional performance and tracks post-merger progress.
 
 Executive Commercial Command Center
 
-![Executive Dashboard](Images/1-Executive Command Center.png)
+![Executive Dashboard](Image/1-Executive_Command_Center.png)
 
 ---
 
 SFA & Route-to-Market Execution
 
-![SFA Dashboard](Images/2-SFA Execution.png)
+![SFA Dashboard](Image/2-SFA_Execution.jpeg)
 
 ---
 
 Distributor & Key Account Health
 
-![Distributor Dashboard](Images/3-Distributor & Account Health.png)
+![Distributor Dashboard](Image/3-Distributor&Account_Health.jpeg)
 
 ---
 
 Pricing & Promotion Governance
 
-![Pricing Dashboard](Images/4-Pricing Governance.png)
+![Pricing Dashboard](Image/4-Pricing_Governance.png)
 
 ---
 
 Market & Post-Merger Comparison
 
-![Market Dashboard](Images/5-Market & Merger Comparison.png)
+![Market Dashboard](Image/5-Market&Merger_Comparison.png)
 
 ---
 
